@@ -1,0 +1,50 @@
+
+/* Header Section */
+header {
+	background-color: #f0e9e9;
+	box-shadow: 0 2px 4px rgba(161, 149, 149, 0.1);
+}
+.text-danger {
+	font-weight: bold;
+	font-size: 24px;
+   
+}
+.navbar-nav .nav-link {
+	font-weight: 500;
+	font-size: 18px;
+}
+.navbar-nav .dropdown-menu {
+	font-weight: 500;
+	font-size: 16px;
+}
+
+/* Body Section */
+.hero-image {
+	background-image: url(../images/hero-image.jpg);
+	background-size: cover;
+	height: 500px;
+	display: flex;
+	align-items: center;
+}
+.hero-text {
+	color: #fff;
+	text-align: center;
+	margin: 0 auto;
+    
+}
+.hero-text h1 {
+	font-size: 48px;
+	margin-bottom: 50px;
+	font-weight: bold;
+}
+.hero-text form {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+.btn{ 
+    margin-left: 20px;
+    margin-bottom: 15px;
+
+}
